@@ -8,12 +8,13 @@ body{
 p{
     padding:auto;
     margin: auto;    
+    color:azure
 }
 table, th, td{
       border: 1px solid black;
 }
 table{
-    border-spacing: 5px;
+border-spacing: 5px;    
 }
 
 th,td{
